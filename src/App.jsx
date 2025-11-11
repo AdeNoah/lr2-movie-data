@@ -7,7 +7,7 @@ import NavBar from "./components/NavBar";
 function App() {
   return (
     <>
-      <MovieProvider >
+      <MovieProvider>
         <NavBar />
         <main className="main-content">
           <Routes>
